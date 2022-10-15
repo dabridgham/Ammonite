@@ -1,0 +1,6 @@
+= Ammonite
+
+Ammonite is an FPGA development board designed to be useful for
+building FPGA-based computers.  It was originally designed to be a
+platform for my FPGA PDP-10 but it ought to be useful for just about
+anyone who's building their own computer with an FPGA.
